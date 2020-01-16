@@ -1,12 +1,11 @@
 const config = {
-  apiKey: "AIzaSyArDJEi3XxZZPWVIAGt4U54axJUU189GZU",
-  authDomain: "fir-react-1b092.firebaseapp.com",
-  databaseURL: "https://fir-react-1b092.firebaseio.com",
-  projectId: "fir-react-1b092",
-  storageBucket: "fir-react-1b092.appspot.com",
-  messagingSenderId: "976155726948",
-  appId: "1:976155726948:web:4851461cb6ff17f9d77b71",
-  measurementId: "G-627J5S5J4P"
+  apiKey: "AIzaSyBQZhWLshShn6Kmlf74Jx-jxwCyakY1sHw",
+  authDomain: "fir-demo-53a12.firebaseapp.com",
+  databaseURL: "https://fir-demo-53a12.firebaseio.com",
+  projectId: "fir-demo-53a12",
+  storageBucket: "fir-demo-53a12.appspot.com",
+  messagingSenderId: "154303447692",
+  appId: "1:154303447692:web:08c910833c33fcea5231a9"
 };
 
 export default config;
